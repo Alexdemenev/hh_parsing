@@ -16,4 +16,6 @@
 
 [Весь код проекта](hh_base_parsing.ipynb)
 
+[Дашборд в .pdf формате](dash.pdf)
+
 [Дашборд](Дашборд.pbix) в формате Power BI
